@@ -1,1 +1,2 @@
 # Route_optimisation
+The project implements route optimisation for the routes of a delivery truck between the warehouse and customers. The truck is tasked with the delivery of goods to the warehouse. The project finds the optimum route on real world maps to deliver the goods to the different warehouses in a cost effective manner. Time of delivering goods and the cost of fuel act as important parameters and the size, fuel and loading capacity of the truck act as constraints. The real world locations of McDonalds were used for the project.
